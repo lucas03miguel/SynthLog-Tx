@@ -1,3 +1,8 @@
+roadmap.md
+installation_guide.md
+
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -148,6 +153,7 @@ activemq-data/
 *.sage.py
 
 # Environments
+.llm_env
 .env
 .envrc
 .venv
